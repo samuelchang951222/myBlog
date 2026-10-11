@@ -1,3 +1,4 @@
-layouts/
+# Ignore Hugo layouts
+/layouts/
 
 .DS_Store
